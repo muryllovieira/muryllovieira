@@ -4,7 +4,6 @@
 - 🌱 Aprendendo back-end e front-end
 - 👯 Mais voltado para Java, CSS e HTML
 - 🤔 Contate-me no email: muryllovieira59@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/muryllovieira">
