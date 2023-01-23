@@ -2,7 +2,7 @@
 
 - 🔭 Estudando em SENAI JANDIRA
 - 🌱 Aprendendo back-end e front-end
-- 👯 Mais voltado para Java, CSS e HTML
+- 👯 Mais voltado para Java, JavaScript, Banco de Dados e Mobile
 - 🤔 Contate-me no email: muryllovieira59@gmail.com
 
 <div align="center">
