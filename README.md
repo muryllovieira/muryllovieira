@@ -1,8 +1,8 @@
 ### Olá! Eu me chamo Muryllo Vieira
 
-- 🔭 Estudando em SENAI JANDIRA
-- 🌱 Aprendendo back-end e front-end
-- 👯 Mais voltado para Java, JavaScript, Banco de Dados e Mobile
+- 🔭 Estudando na Faculdade Impacta
+- 👨‍🎓 Técnico em Desenvolvimento de Sistemas em SENAI Jandira
+- 👨‍💻 Programador Full-Stack
 - 🤔 Contate-me no email: muryllovieira59@gmail.com
 
 <div align="center">
