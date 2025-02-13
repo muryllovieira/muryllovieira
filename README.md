@@ -32,10 +32,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/muryllovieira">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=react" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muryllovieira&theme=react" />
   </a>
  <a href="https://github.com/muryllovieira">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitor-ext&theme=react" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muryllovieira&theme=react" />
   </a>
 </div>
 
