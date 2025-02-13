@@ -1,9 +1,8 @@
-### Olá! Eu me chamo Muryllo Vieira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5FD5F5&height=120&section=header"/>
 
-- 🔭 Estudando na Faculdade Impacta
-- 👨‍🎓 Técnico em Desenvolvimento de Sistemas em SENAI Jandira
-- 👨‍💻 Programador Full-Stack
-- 🤔 Contate-me no email: muryllovieira59@gmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5FD5F5&size=35&center=true&vCenter=true&width=1000&lines=+OLÁ,+MEU+NOME+É+MURYLLO+VIEIRA;TENHO+20+ANOS;SOU+DE+BARUERI,+SP;SEJÁ+BEM+VINDO!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
 
 ## *Status :*
 <div align="center">
@@ -17,7 +16,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muryllovieira&theme=react" />
   </a>
  <a href="https://github.com/muryllovieira">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muryllovieira&theme=react" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muryllovieira&theme=react" />
   </a>
 </div>
   
