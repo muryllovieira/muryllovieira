@@ -25,16 +25,16 @@
 
 ## *Status :*
 <div align="center">
-  <a href="https://github.com/luyz-gusta">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luyz-gusta&theme=react&hide_border=false&exclude_days=Sun&locale=pt_BR" />
+  <a href="https://github.com/muryllovieira">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muryllovieira&theme=react&hide_border=false&exclude_days=Sun&locale=pt_BR" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/luyz-gusta">
+  <a href="https://github.com/muryllovieira">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=react" />
   </a>
- <a href="https://github.com/luyz-gusta">
+ <a href="https://github.com/muryllovieira">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitor-ext&theme=react" />
   </a>
 </div>
