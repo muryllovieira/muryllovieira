@@ -89,7 +89,3 @@
 </div>
 
 
-
-</div>
-
-![Snake animation](https://github.com/muryllovieira/muryllovieira/blob/output/github-contribution-grid-snake.svg)
