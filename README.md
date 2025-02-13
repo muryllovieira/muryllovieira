@@ -21,7 +21,7 @@
   </a>
 </div>
   
-## *Frontend :*
+### *Frontend :*
 <div align="center">
    <div style="display: flex; justify-content: center; gap:5px;">
       <img align="center" alt="Muryllo-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
