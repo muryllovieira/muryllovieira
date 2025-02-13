@@ -12,13 +12,6 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/muryllovieira">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muryllovieira&theme=react" />
-  </a>
- <a href="https://github.com/muryllovieira">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muryllovieira&theme=react" />
-  </a>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
