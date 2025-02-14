@@ -20,7 +20,7 @@
   </a>
 </div>
 
-![alt text](https://github.com/wesley-moraes/my-stuff/blob/main/mario-pixel-art.gif " Coding")
+![alt text](https://github.com/muryllovieira/my-stuff/blob/main/mario-pixel-art.gif " Coding")
   
 ## *Frontend :*
 <div align="center">
