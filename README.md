@@ -19,6 +19,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muryllovieira&theme=react" />
   </a>
 </div>
+
+![alt text](https://github.com/wesley-moraes/my-stuff/blob/main/mario-pixel-art.gif " Coding")
   
 ## *Frontend :*
 <div align="center">
