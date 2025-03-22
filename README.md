@@ -62,13 +62,6 @@
    </div>
 </div>
 
-## *No-Code :*
-<div align="center">
-   <div style="display: flex; justify-content: center; gap:5px;"> 
-      <img align="center" alt="Muryllo-WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" />
-     <img align="center" alt="Muryllo-ELEMENTOR" src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=FFFFFF" />
-   </div>
-</div>
       
 
 ## *Integration :*
