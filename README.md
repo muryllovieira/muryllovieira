@@ -30,7 +30,6 @@
       <img align="center" alt="Muryllo-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img align="center" alt="Muryllo-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img align="center" alt="Muryllo-AXIOS" src="https://img.shields.io/badge/Axios-6927E1?style=for-the-badge&logo=axios&logoColor=FFFFFF" />      
-      <img align="center" alt="Muryllo-FIGMA"  src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" />
    </div>
 </div>
 
