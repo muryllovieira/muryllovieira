@@ -57,7 +57,7 @@
 ## *Database :*
 <div align="center">
    <div style="display: flex; justify-content: center; gap:5px;"> 
-      <img align="center" alt="Muryllo-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img align="center" alt="Muryllo-MySQL" src="https://img.shields.io/badge/MySQL-666666?style=for-the-badge&logo=mysql&logoColor=white" />
       <img align="center" alt="Muryllo-MONGODB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
    </div>
 </div>
